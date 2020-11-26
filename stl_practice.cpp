@@ -114,7 +114,7 @@ int main()
 	int* ptrarr[] = {arr1, arr2, arr3, arr4};
 
 	cout << (ptrarr[0])[1] << endl;
-
+	cout << "bye" << endl;
 	
 	return 0;
 }
